@@ -199,6 +199,8 @@ datasets
 \end{table}
 
 
+
+```latex
 \usepackage{booktabs}
 % --
 \begin{table}
@@ -217,6 +219,7 @@ datasets
 	\caption{My caption.}
 	\label{tab-label}
 \end{table}
+```
 
 
 
