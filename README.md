@@ -50,8 +50,7 @@ python main.py -h
 
 ### Example how to train on IITD dataset
 
-```bat
-
+```
 python main.py \     
     --backbone Vgg \         
     --data IITD \  # switch to: CASIA if you want to train on CASIA dataset      
