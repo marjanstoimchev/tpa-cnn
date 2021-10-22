@@ -200,28 +200,6 @@ datasets
 
 
 
-```latex
-\usepackage{booktabs}
-% --
-\begin{table}
-	\centering
-	\begin{tabular}{lcc}
-		\toprule
-		& \multicolumn{2}{c}{Data} \\ \cmidrule(lr){2-3}
-		Name & Column 1 & Another column \\
-		\midrule
-		Some data & 10 & 95 \\
-		Other data & 30 & 49 \\
-		\addlinespace
-		Different stuff & 99 & 12 \\
-		\bottomrule
-	\end{tabular}
-	\caption{My caption.}
-	\label{tab-label}
-\end{table}
-```
-
-
-
+![Booktabs example](https://github.com/Marjan1111/tpa-cnn/latex/file.tex)
 
 
