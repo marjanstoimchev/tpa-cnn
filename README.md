@@ -98,8 +98,3 @@ datasets
         ...
         └── 0312_m_r_11.jpg
 ```
-
-
-    \end{tabularx}
-    \label{table:classical-methods-metrics}
-\end{table}
