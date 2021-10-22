@@ -1,7 +1,6 @@
 # tpa-cnn
 
-## This is a model and training details repository for the following article:
-
+This repository contains PyTorch implementation of the following paper: 
 Stoimchev, M., Ivanovskа, M., Štruc, V. Learning to Combine Local and Global Image Information for Contactless Palmprint Recognition
 
 # The Two-Path Architecture (TPA)
