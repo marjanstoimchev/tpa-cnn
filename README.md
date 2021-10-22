@@ -106,7 +106,12 @@ datasets
 
 ```
 
+\usepackage{subfigure}
+\usepackage{multicol}
+\usepackage{tabularx}
 \usepackage{booktabs}
+\usepackage{gensymb}
+\usepackage{enumitem}
 % --
 \begin{footnotesize}
 
