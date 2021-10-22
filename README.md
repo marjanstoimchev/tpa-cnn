@@ -115,7 +115,7 @@ datasets
 % --
 \begin{footnotesize}
 
-\begin{table*}[!ht]
+\begin{table}
 
 \caption{Comparison against the traditional approaches when evaluating on different palmprint images from IITD and CASIA datasets. The results are presented in the form of a $\mu\pm\sigma$ and in ($\%$).} 
 \centering % used for centering table
@@ -198,7 +198,7 @@ datasets
     
 \end{tabularx}
 \label{table:classical-methods-metrics}
-\end{table*}
+\end{table}
 \end{footnotesize}
 
 
