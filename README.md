@@ -1,5 +1,4 @@
 # tpa-cnn
-Learning to Combine Local and Global Image Information for Contactless Palmprint Recognition
 
 ## This is a model and training details repository for the following article:
 
