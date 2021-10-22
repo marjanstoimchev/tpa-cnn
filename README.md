@@ -7,7 +7,7 @@ Stoimchev, M., Ivanovskа, M., Štruc, V. Learning to Combine Local and Global I
 
 # The Two-Path Architecture (TPA)
 
-<img id="photo1" style="height:512px;width:auto;" src="media/architecture.PNG" height="512" />
+<img id="photo1" style="height:512px;width:auto;" src="media/tpa-cnn.png" height="512" />
 
 # Abstract
 
@@ -51,19 +51,19 @@ python main.py -h
 
 ```bat
 
-python main.py             
-    --backbone Vgg         
-    --data IITD  # switch to: CASIA if you want to train on CASIA dataset         
-    --palm_train left  # note: if you chose left forr train, chose right for palm_test, and vice versa.
-    --palm_test right 
-    --n_epochs 100  
-    --num_trainable 10 
-    --metric_head arc_margin 
-    --patches [75, 1, 0, 30] 
-    --lr_centers 0.5 
-    --alpha 0.001 
-    --save_path saved_models 
-    --model_type Vgg_16 
+python main.py \     
+    --backbone Vgg \         
+    --data IITD \  # switch to: CASIA if you want to train on CASIA dataset      
+    --palm_train left \  # note: if you chose left forr train, chose right for palm_test, and vice versa.
+    --palm_test right \ 
+    --n_epochs 100 \  
+    --num_trainable 10 \ 
+    --metric_head arc_margin \ 
+    --patches [75, 1, 0, 30] \ 
+    --lr_centers 0.5 \ 
+    --alpha 0.001 \ 
+    --save_path saved_models \ 
+    --model_type Vgg_16 \ 
 ```
 
 ## Testing
