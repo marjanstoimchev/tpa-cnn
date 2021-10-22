@@ -36,8 +36,7 @@ Among the existing biometric technologies, the field of palmprint recognition ha
 ## Installation
 1. First clone the repository
    ```
-   git clone http://source.ijs.si/marjans/tpa-cnn.git
-   
+   git clone https://github.com/Marjan1111/tpa-cnn.git
    ```
 2. Create the virtual environment via conda
     ```
