@@ -23,6 +23,15 @@ Among the existing biometric technologies, the field of palmprint recognition ha
     - [Citing Two-Path Architecture](#citing-tpa)
     - [Reference](#reference)
 
+## Dependencies
+
+- Python3
+- PyTorch
+- Torchvision
+- Numpy
+- Matplotlib
+- Pillow / PIL
+
 ## Installation
 1. First clone the repository
    ```
