@@ -103,9 +103,3 @@ datasets
     \end{tabularx}
     \label{table:classical-methods-metrics}
 \end{table}
-
-
-
-![Booktabs example](https://github.com/Marjan1111/tpa-cnn/latex/file.tex)
-
-
