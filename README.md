@@ -31,7 +31,8 @@ Among the existing biometric technologies, the field of palmprint recognition ha
 - Numpy
 - Matplotlib
 - Pillow / PIL
-
+- imgaug 
+- scikit-learn
 ## Installation
 1. First clone the repository
    ```
