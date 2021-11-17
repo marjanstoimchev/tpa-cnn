@@ -2,7 +2,7 @@
 
 This repository contains PyTorch implementation of the following paper: 
 Stoimchev, M., Ivanovskа, M., Štruc, V. Learning to Combine Local and Global Image Information for Contactless Palmprint Recognition
-(The paper is coming soon, the code will be updated)
+(This is an initial version, the code will be updated)
 
 # The Two-Path Architecture (TPA)
 
