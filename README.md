@@ -6,7 +6,7 @@ Stoimchev, M., Ivanovskа, M., Štruc, V. Learning to Combine Local and Global I
 
 # The Two-Path Architecture (TPA)
 
-<img id="photo1" style="height:512px;width:auto;" src="media/architecture.PNG" height="512" />
+<img id="photo1" style="height:512px;width:auto;" src="media/tpa_model.png" height="512" />
 
 ##  Table of Contents
 - [The Two-Path Architecture (TPA)](#TPA)
