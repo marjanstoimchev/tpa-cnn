@@ -1,7 +1,5 @@
 
-from other_imports import *
-from config import *
-from losses import *
+import torch
 from metric_learning import *
 from torch.utils.model_zoo import load_url as load_state_dict_from_url
 
